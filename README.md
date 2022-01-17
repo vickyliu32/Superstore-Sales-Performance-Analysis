@@ -8,9 +8,7 @@ link: https://public.tableau.com/shared/FPMBB8DZW?:display_count=n&:origin=viz_s
 The aim is to evaluate the sales performances by region and product category, to find out the profitable and deficit products. 
 
 
-
 Findlings: 
-
 
 
 Profits by region
